@@ -1,2 +1,2 @@
 # python-linux
-Linux distro running entirely on python (concept idea state/work in progress)
+Linux kernel + static busybox + static python3.10

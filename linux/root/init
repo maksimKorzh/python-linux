@@ -1,6 +1,8 @@
 #! /bin/sh
+export PATH=/bin:/sbin:/usr/bin:/python/bin
+export PYTHONHOME=/python
 
-# supress kernel messages
+# suppress kernel messages
 dmesg -n 1
 
 # mount virtual file systems

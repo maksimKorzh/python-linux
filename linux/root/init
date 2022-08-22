@@ -1,0 +1,15 @@
+#! /bin/sh
+
+# supress kernel messages
+dmesg -n 1
+
+# mount virtual file systems
+mount -t devtmpfs none /dev
+mount -t proc none /proc
+mount -t sysfs none /sys
+
+# never exit shell
+while true
+  do
+    setsid cttyhack /bin/sh
+  done

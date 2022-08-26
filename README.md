@@ -18,6 +18,7 @@ to store packages to the home directory. On reboot your home directory would<br>
 get automatically updated.<br>
 
 # Download ISO
+https://github.com/maksimKorzh/python-linux/releases/tag/0.0.0
 
 # Video demo
 

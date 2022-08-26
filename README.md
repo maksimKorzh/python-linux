@@ -21,4 +21,4 @@ get automatically updated.<br>
 https://github.com/maksimKorzh/python-linux/releases/tag/0.0.0
 
 # Video demo
-
+https://youtu.be/goZ3doZ4kgs
